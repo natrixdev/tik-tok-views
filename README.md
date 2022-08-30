@@ -2,7 +2,7 @@
 
 Install packages:
 ```
-npm i tik-tok-views chromddriver --save
+npm i tik-tok-views chromedriver --save
 ```
 
 Proofs: 
